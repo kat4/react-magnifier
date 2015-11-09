@@ -1,7 +1,7 @@
 {
   "name": "react-magnifying-glass",
   "description": "React Magnifier is a versatile react component which allows the user to create a zoom pane for an image that they input.",
-  "author": "kat4 (http://github.com/kat4)",
+  "author": "kat4 joshuaronan85@yahoo.co.uk (http://github.com/kat4)",
   "license": "MIT",
   "version": "0.1.1",
   "main": "ReactMagnifier.js",
