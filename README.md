@@ -20,7 +20,7 @@ var Magnify = require('react-magnifier');
 The properties that you can set are defined below. In your HTMl file add whatever you've named your component and then the properties that you'd like to add from the list below.
 
 ```HTMl
-<Magnify width={300}
+<Magnify width={300} />
 ```
 
 ### Basic Setup & Values
