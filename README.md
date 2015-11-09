@@ -15,12 +15,12 @@ $ npm install react-magnifier --save
 
 After installing add the line of code below to your main javascript file. e.g. app.js
 ```javascript
-var magnify = require('react-magnifier');
+var Magnify = require('react-magnifier');
 ```
 The properties that you can set are defined below. In your HTMl file add whatever you've named your component and then the properties that you'd like to add from the list below.
 
 ```HTMl
-<magnify width={300}
+<Magnify width={300}
 ```
 
 ### Basic Setup & Values
