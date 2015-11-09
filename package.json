@@ -15,14 +15,15 @@
     ]
   },
   "keywords": [
-    "React",
-    "Webpack",
-    "Zoom",
-    "Magnify",
-    "Magnifier",
-    "Image",
-    "Picture",
-    "Tool"
+    "react",
+    "react-component",
+    "webpack",
+    "zoom",
+    "magnify",
+    "magnifier",
+    "image",
+    "picture",
+    "tool"
   ],
   "devDependencies": {
     "react-tools": "^0.13.3"
